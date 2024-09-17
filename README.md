@@ -8,11 +8,11 @@ All the Characters that we can type using the numbers are;-
 -  %     - Percent Sign
 -  ^     - Caret , hat
 -  &     - And-sign , ampersand
--  *     - Multiplication sign, asterisk
+-  \*     - Multiplication sign, asterisk
 -  (     -  Left parenthesis
 -  )     -  Right parenthesis
 -  _     -  Underscore
--  +     -  Plus Sign
+-  \+     -  Plus Sign
 
 ## Links
 - [GitHub Pages](https://pages.github.com/)

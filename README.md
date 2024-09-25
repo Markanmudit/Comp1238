@@ -25,3 +25,14 @@ All the Characters that we can type using the numbers are;-
 - 🔥 - Fire
 - 👍 - Thumbs up
 - 😎 - Smiling face with smatglasses
+
+
+## Keyboard shortcuts
+Shortcuts i frequently use :
+- Ctrl+C = Copy
+- Ctrl+V = Paste
+- Ctrl+Z = undo
+
+Shortcuts i would like to start using :
+Alt + Tab = Used to switch between the windows
+Ctrl+Shift+T = reopen closed Tab

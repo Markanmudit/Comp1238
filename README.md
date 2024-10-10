@@ -19,6 +19,7 @@ All the Characters that we can type using the numbers are;-
 - [mudit's website](http://techmihirnaik.in/)
 - [socify's website](https://letsplaymusic.freewebhostmost.com)
 
+
 ## Experiments
 - 😀  -Grinning Face
 - ❤️  -Heart
@@ -36,3 +37,6 @@ Shortcuts i frequently use :
 Shortcuts i would like to start using :
 Alt + Tab = Used to switch between the windows
 Ctrl+Shift+T = reopen closed Tab
+
+## Link to CLI page
+-[CLI command](docs/cli.md)

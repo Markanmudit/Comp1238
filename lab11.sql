@@ -27,7 +27,7 @@ ORDER BY due_date;
 -- Exercise Question 
 SELECT title,due_date
 FROM assignments
-WHERE course_id ='COMP1234'
+WHERE course_id ='COMP1234';
 
 SELECT title,due_date
 FROM assignments

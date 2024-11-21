@@ -5,7 +5,7 @@ FROM courses;
 --Find Courses with Labs on Fridays
 SELECT course_id, course_name, lab_time
 FROM courses
-WHERE lab_time = 'Friday';
+WHERE lab_time like '%Friday%';
 
 --Upcoming Assignments:
 SELECT *
